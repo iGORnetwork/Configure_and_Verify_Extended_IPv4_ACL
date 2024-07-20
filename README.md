@@ -7,3 +7,5 @@
 ![](https://github.com/iGORnetwork/Configure_and_Verify_Extended_IPv4_ACL/blob/main/imeg/Screenshot_3.png)
 
 ## Настроим базовые параметры каждого коммутатора.
+
+![](https://github.com/iGORnetwork/Configure_and_Verify_Extended_IPv4_ACL/blob/main/imeg/Screenshot_2.png)
