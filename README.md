@@ -30,3 +30,6 @@
 ## Включиv защищенные веб-службы с проверкой подлинности на R1.
 ![](https://github.com/iGORnetwork/Configure_and_Verify_Extended_IPv4_ACL/blob/main/imeg/Screenshot_13.png)
 ![](https://github.com/iGORnetwork/Configure_and_Verify_Extended_IPv4_ACL/blob/main/imeg/Screenshot_14.png)
+
+## Выпоним следующие тесты :
+
