@@ -19,3 +19,6 @@
 ![](https://github.com/iGORnetwork/Configure_and_Verify_Extended_IPv4_ACL/blob/main/imeg/Screenshot_8.png)
 
 ## Настройка маршрутизации между сетями.
+
+![](https://github.com/iGORnetwork/Configure_and_Verify_Extended_IPv4_ACL/blob/main/imeg/Screenshot_9.png)
+![](https://github.com/iGORnetwork/Configure_and_Verify_Extended_IPv4_ACL/blob/main/imeg/Screenshot_10.png)
