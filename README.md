@@ -26,3 +26,5 @@
 ## Настроим удаленный доступ SSH.
 ![](https://github.com/iGORnetwork/Configure_and_Verify_Extended_IPv4_ACL/blob/main/imeg/Screenshot_12.png)
 ![](https://github.com/iGORnetwork/Configure_and_Verify_Extended_IPv4_ACL/blob/main/imeg/Screenshot_11.png)
+
+## Включиv защищенные веб-службы с проверкой подлинности на R1.
