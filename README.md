@@ -38,6 +38,7 @@
 ![](https://github.com/iGORnetwork/Configure_and_Verify_Extended_IPv4_ACL/blob/main/imeg/Screenshot_18.png)
 ![](https://github.com/iGORnetwork/Configure_and_Verify_Extended_IPv4_ACL/blob/main/imeg/Screenshot_19.png)
 
+## Настройка и проверка списков контроля доступа (ACL)
 
 
 
