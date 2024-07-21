@@ -33,4 +33,16 @@
 
 ## Выпоним следующие тесты :
 ![](https://github.com/iGORnetwork/Configure_and_Verify_Extended_IPv4_ACL/blob/main/imeg/Screenshot_15.png)
+![](https://github.com/iGORnetwork/Configure_and_Verify_Extended_IPv4_ACL/blob/main/imeg/Screenshot_16.png)
+![](https://github.com/iGORnetwork/Configure_and_Verify_Extended_IPv4_ACL/blob/main/imeg/Screenshot_17.png)
+![](https://github.com/iGORnetwork/Configure_and_Verify_Extended_IPv4_ACL/blob/main/imeg/Screenshot_18.png)
+![](https://github.com/iGORnetwork/Configure_and_Verify_Extended_IPv4_ACL/blob/main/imeg/Screenshot_19.png)
+
+
+
+
+
+
+
+
 
